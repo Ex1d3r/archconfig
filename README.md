@@ -2,6 +2,8 @@
 
 This guide explains how to set up an Arch Linux environment identical to **Exider’s configuration**.
 
+![System screenshot](assets/screenshot.png)
+
 ---
 
 ## 📦 Step 1 — Install Required Packages
