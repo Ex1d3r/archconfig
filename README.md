@@ -29,7 +29,14 @@ makepkg -si
 ### Install AUR packages
 
 ```bash
-yay -S hyprshot wlogout
+yay -S \
+  hyprshot \               # Screenshots Hyprland
+  wlogout \                # Logout menu Wayland
+  google-chrome \          # Browser Google Chrome
+  pear-desktop \           # YouTube Music (Electron-client)
+  ttf-meslo-nerd-font-powerlevel10k \  # Powerlevel10k nerd font
+  ultrapaper \             # UI for hyprpaper
+  visual-studio-code-bin   # VS Code (official microsoft version)
 ```
 
 ---
