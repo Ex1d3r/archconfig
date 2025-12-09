@@ -132,7 +132,7 @@ cp -r <repo-folder>/* ~/.config/
 
 ---
 
-## ✔ Done!ne!
+## ✔ Done!
 
 You now have Exider's Linux environment fully installed and configured.
 
