@@ -3,7 +3,8 @@ window {
 }
 
 * {
-  font-family: "Jetbrains Mono";
+  font-family: "mononoki";
+  font-weight: bold;
   color: #fff;
 }
 
