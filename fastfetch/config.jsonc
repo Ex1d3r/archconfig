@@ -10,16 +10,13 @@
     "title",
     "separator",
     "os",
-    "host",
     "kernel",
     "shell",
     "de",
     "wm",
-    "icons",
     "terminal",
     "cpu",
     "memory",
-    "break",
-    "colors"
+    "break"
   ]
 }
